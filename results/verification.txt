@@ -1,0 +1,41 @@
+Yerel doğrulama: Windows, Python 3.11.9. GitHub Actions henüz çalıştırılmadı.
+Kaynak toplamları, kapsam, sıfır maç, puan katkıları, belirsizlik, ML ve uçtan uca çıktı denetlendi.
+
+test_adding_weak_candidate_does_not_rescale_other_scores (test_model.ModelTests.test_adding_weak_candidate_does_not_rescale_other_scores) ... ok
+test_club_scope_removes_national_team (test_model.ModelTests.test_club_scope_removes_national_team) ... ok
+test_contribution_sum_explains_total (test_model.ModelTests.test_contribution_sum_explains_total) ... ok
+test_curated_wdl_appear_in_saved_source_tables (test_model.ModelTests.test_curated_wdl_appear_in_saved_source_tables) ... ok
+test_end_to_end_exports_reproducible_artifacts (test_model.ModelTests.test_end_to_end_exports_reproducible_artifacts) ... ok
+test_europe_coefficients_have_expected_order (test_model.ModelTests.test_europe_coefficients_have_expected_order) ... ok
+test_europe_titles_and_no_appearance (test_model.ModelTests.test_europe_titles_and_no_appearance) ... ok
+test_identical_profiles_have_no_invented_clusters (test_model.ModelTests.test_identical_profiles_have_no_invented_clusters) ... ok
+test_kmeans_recovers_clear_synthetic_profiles (test_model.ModelTests.test_kmeans_recovers_clear_synthetic_profiles) ... ok
+test_last_played_policy_is_explicit (test_model.ModelTests.test_last_played_policy_is_explicit) ... ok
+test_no_match_is_missing_not_zero_success (test_model.ModelTests.test_no_match_is_missing_not_zero_success) ... ok
+test_ppg_is_weighted_by_matches (test_model.ModelTests.test_ppg_is_weighted_by_matches) ... ok
+test_reserve_teams_excluded (test_model.ModelTests.test_reserve_teams_excluded) ... ok
+test_sensitivity_reproducible_and_shares_sum_to_one (test_model.ModelTests.test_sensitivity_reproducible_and_shares_sum_to_one) ... ok
+test_small_sample_smoothing_leaves_last_out (test_model.ModelTests.test_small_sample_smoothing_leaves_last_out) ... ok
+test_tied_candidates_share_first_place (test_model.ModelTests.test_tied_candidates_share_first_place) ... ok
+test_unknown_derby_is_explicit_neutral (test_model.ModelTests.test_unknown_derby_is_explicit_neutral) ... ok
+test_weight_scale_does_not_change_result (test_model.ModelTests.test_weight_scale_does_not_change_result) ... ok
+test_zero_prior_restores_raw_ppg (test_model.ModelTests.test_zero_prior_restores_raw_ppg) ... ok
+test_zero_weight_keeps_criterion_inactive_in_sensitivity (test_model.ModelTests.test_zero_weight_keeps_criterion_inactive_in_sensitivity) ... ok
+test_all_zero_weights_rejected (test_model.ValidationTests.test_all_zero_weights_rejected) ... ok
+test_bad_europe_coefficient_order_rejected (test_model.ValidationTests.test_bad_europe_coefficient_order_rejected) ... ok
+test_cli_invalid_config_fails_without_output (test_model.ValidationTests.test_cli_invalid_config_fails_without_output) ... ok
+test_duplicate_european_season_rejected (test_model.ValidationTests.test_duplicate_european_season_rejected) ... ok
+test_duplicate_tenure_rejected (test_model.ValidationTests.test_duplicate_tenure_rejected) ... ok
+test_future_record_rejected (test_model.ValidationTests.test_future_record_rejected) ... ok
+test_inconsistent_wdl_rejected (test_model.ValidationTests.test_inconsistent_wdl_rejected) ... ok
+test_nan_editorial_score_rejected (test_model.ValidationTests.test_nan_editorial_score_rejected) ... ok
+test_nan_prior_rejected (test_model.ValidationTests.test_nan_prior_rejected) ... ok
+test_negative_and_boolean_counts_rejected (test_model.ValidationTests.test_negative_and_boolean_counts_rejected) ... ok
+test_negative_weight_rejected (test_model.ValidationTests.test_negative_weight_rejected) ... ok
+test_out_of_scale_editorial_score_rejected (test_model.ValidationTests.test_out_of_scale_editorial_score_rejected) ... ok
+test_unknown_source_rejected (test_model.ValidationTests.test_unknown_source_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 33 tests in 0.375s
+
+OK

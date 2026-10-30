@@ -1,0 +1,1691 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-10-30",
+  "description": "30 Ekim 2026'da erişilen kaynakların ilk inceleme sürümü; her hocanın kayıt tarihi farklıdır.",
+  "coverage": "Kaynaklarda listelenen A takım başantrenörlük görevleri. Alt ligler dahil; rezerv, genç ve yardımcı görevler hariç. Milli takımlar isteğe bağlı.",
+  "ppg_definition": "(3 * wins + draws) / games; kupa maçları için analitik 3-1-0 eşdeğeri. Penaltı sınıflandırması kaynaklar arasında tamamen uyumlaştırılmadı.",
+  "sources": {
+    "wiki_avci": {
+      "title": "Abdullah Avcı — managerial statistics",
+      "url": "https://en.wikipedia.org/wiki/Abdullah_Avc%C4%B1",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": "Takım satırları kullanıldı; toplam satırları ayrıca denetlendi."
+    },
+    "wiki_conte": {
+      "title": "Antonio Conte — managerial statistics",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Conte",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": "Takım satırları kullanıldı; toplam satırları ayrıca denetlendi."
+    },
+    "wiki_nagelsmann": {
+      "title": "Julian Nagelsmann — managerial statistics",
+      "url": "https://en.wikipedia.org/wiki/Julian_Nagelsmann",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": "Takım satırları kullanıldı; toplam satırları ayrıca denetlendi."
+    },
+    "wiki_mendilibar": {
+      "title": "José Luis Mendilibar — managerial statistics",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Mendilibar",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": "Takım satırları kullanıldı; toplam satırları ayrıca denetlendi."
+    },
+    "wiki_tedesco": {
+      "title": "Domenico Tedesco — managerial statistics",
+      "url": "https://en.wikipedia.org/wiki/Domenico_Tedesco",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": "Takım satırları kullanıldı; toplam satırları ayrıca denetlendi."
+    },
+    "wiki_emre": {
+      "title": "Emre Belözoğlu — managerial statistics",
+      "url": "https://en.wikipedia.org/wiki/Emre_Bel%C3%B6zo%C4%9Flu",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": "Takım satırları kullanıldı; toplam satırları ayrıca denetlendi."
+    },
+    "wiki_montella": {
+      "title": "Vincenzo Montella — managerial statistics",
+      "url": "https://en.wikipedia.org/wiki/Vincenzo_Montella",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": "Takım satırları kullanıldı; toplam satırları ayrıca denetlendi."
+    },
+    "wiki_kuyt": {
+      "title": "Dirk Kuyt — managerial statistics",
+      "url": "https://en.wikipedia.org/wiki/Dirk_Kuyt",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": "Takım satırları kullanıldı; toplam satırları ayrıca denetlendi."
+    },
+    "bologna_end": {
+      "title": "Bologna: Tedesco sonrası Palladino, dört maçta bir beraberlik",
+      "url": "https://sport.sky.it/calcio/serie-a/2026/09/16/bologna-tedesco-esonero-palladino-allenatore-news",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "kuyt_interim": {
+      "title": "Kuyt takes interim charge of Fenerbahce",
+      "url": "https://www.liverpoolfc.com/news/dirk-kuyt-takes-interim-charge-of-fenerbahce-ahead-of-clash-with-liverpool",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "mendi_interview": {
+      "title": "Mendilibar on his impact, philosophy and Europa League",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/0281-17f626397b3e-59ab2287f94a-1000--mendilibar-on-turning-tide-at-sevilla/",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "mendi_titles": {
+      "title": "Olympiacos 1-0 Fiorentina: Mendilibar'ın iki Avrupa kupası",
+      "url": "https://www.uefa.com/uefaconferenceleague/news/028d-1b01e5ec31a5-144c1f00e4f3-1000--olympiacos-1-0-fiorentina-aet-el-kaabi-swoops-in-to-secure-/",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "conte_europe": {
+      "title": "Inter coach Conte on the 2020 Europa League final",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/0260-102b58fe7eea-f9e0ce560045-1000--europa-league-final-inter-coach-conte-on-squaring-up-to-sevilla/",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "nag_europe": {
+      "title": "2020 Leipzig–PSG yarı finali, teknik direktör Nagelsmann",
+      "url": "https://www.uefa.com/newsfiles/UCL/2020/2030148_HR.pdf",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "nag_profile": {
+      "title": "Nagelsmann'ın Almanya'daki ilk iki yılı",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/julian-nagelsmann-first-two-years-germany",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "nag_tactics": {
+      "title": "Nagelsmann tactics and style of play",
+      "url": "https://learning.coachesvoice.com/cv/julian-nagelsmann-bayern-munich-red-bull-rangnick/",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": "Taktik analizi ve aktarılan teknik direktör açıklamaları; iletişim puanının ölçümü değildir."
+    },
+    "ted_europe": {
+      "title": "Leipzig–Rangers 2022 yarı finali",
+      "url": "https://datencenter.dfb.de/en/data-center/europa-league/18488/1/2337758",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "mont_europe": {
+      "title": "Fiorentina 2015 Avrupa Ligi yarı finali",
+      "url": "https://www.uefa.com/uefaeuropaleague/news/0221-0e90ba869e9f-10aa47988723-1000--steadfast-sevilla-finish-off-fiorentina/",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "emre_europe": {
+      "title": "Başakşehir 1-4 Gent, Konferans Ligi son 16",
+      "url": "https://www.tff.org/default.aspx?ftxtID=39755&pageID=267",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "avci_europe": {
+      "title": "Trabzonspor–Basel, 2023 Konferans Ligi play-off",
+      "url": "https://www.uefa.com/newsfiles/uefaeuropaconferenceleague/2023/2036615_LU.pdf",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "emre_interview": {
+      "title": "Emre'nin pres, topa sahip olma ve geçiş oyunu anlatımı",
+      "url": "https://as.com/futbol/primera/emre-guler-mejorara-con-xabi-n/",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": "Teknik direktörle doğrudan röportaj; üslup ve oyun yaklaşımı için kullanıldı."
+    },
+    "avci_derby": {
+      "title": "Beşiktaş 1-0 Galatasaray, 27 Ekim 2019",
+      "url": "https://bjk.com.tr/tr/mac_merkezi/canli/14779",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "ted_derby": {
+      "title": "Schalke: 2017/18 maç arşivi",
+      "url": "https://schalke04.de/verein/tradition/alle-spiele-alle-tore/bundesliga/bundesliga-saison-2017-2018/",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "conte_derby": {
+      "title": "Milan 0-3 Inter, 21 Şubat 2021",
+      "url": "https://www.inter.it/en/news/2021-02-21-milan-0-3-inter-serie-a-2020-21",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "mont_derby": {
+      "title": "Inter 2-2 Milan, 15 Nisan 2017; Montella",
+      "url": "https://www.inter.it/en/news/2017-04-15-inter-2-2-ac-milan",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "mendi_derby_draw": {
+      "title": "Panathinaikos 2-2 Olympiacos, 19 Mayıs 2024",
+      "url": "https://www.olympiacos.org/en/2024/05/20/mendilibar-and-now-the-final/",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "mendi_derby_win": {
+      "title": "Olympiacos 4-2 Panathinaikos, 30 Mart 2025",
+      "url": "https://as.com/futbol/internacional/el-olympiacos-de-mendilibar-se-lleva-el-derbi-y-acaricia-el-titulo-n/",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "mendi_derby_loss": {
+      "title": "Olympiacos 1-3 Panathinaikos, 10 Mart 2024",
+      "url": "https://en.wikipedia.org/wiki/2023%E2%80%9324_Olympiacos_F.C._season",
+      "kind": "secondary",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    },
+    "sklearn_kmeans": {
+      "title": "scikit-learn KMeans API",
+      "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html",
+      "kind": "first_party",
+      "accessed_on": "2026-10-30",
+      "note": ""
+    }
+  },
+  "coaches": [
+    {
+      "id": "avci",
+      "name": "Abdullah Avcı",
+      "record_as_of": "2024-08-31",
+      "tenures": [
+        {
+          "team": "İstanbul Başakşehir",
+          "started_on": "2006-08-08",
+          "ended_on": "2011-11-18",
+          "kind": "club",
+          "games": 205,
+          "wins": 83,
+          "draws": 48,
+          "losses": 74,
+          "source_ids": [
+            "wiki_avci"
+          ]
+        },
+        {
+          "team": "Türkiye",
+          "started_on": "2011-11-18",
+          "ended_on": "2013-08-20",
+          "kind": "national",
+          "games": 18,
+          "wins": 6,
+          "draws": 4,
+          "losses": 8,
+          "source_ids": [
+            "wiki_avci"
+          ]
+        },
+        {
+          "team": "İstanbul Başakşehir",
+          "started_on": "2014-08-18",
+          "ended_on": "2019-06-30",
+          "kind": "club",
+          "games": 226,
+          "wins": 116,
+          "draws": 71,
+          "losses": 39,
+          "source_ids": [
+            "wiki_avci"
+          ]
+        },
+        {
+          "team": "Beşiktaş",
+          "started_on": "2019-07-03",
+          "ended_on": "2020-01-29",
+          "kind": "club",
+          "games": 28,
+          "wins": 11,
+          "draws": 3,
+          "losses": 14,
+          "source_ids": [
+            "wiki_avci"
+          ]
+        },
+        {
+          "team": "Trabzonspor",
+          "started_on": "2020-11-10",
+          "ended_on": "2023-03-07",
+          "kind": "club",
+          "games": 117,
+          "wins": 64,
+          "draws": 32,
+          "losses": 21,
+          "source_ids": [
+            "wiki_avci"
+          ]
+        },
+        {
+          "team": "Trabzonspor",
+          "started_on": "2023-10-12",
+          "ended_on": "2024-08-31",
+          "kind": "club",
+          "games": 42,
+          "wins": 23,
+          "draws": 7,
+          "losses": 12,
+          "source_ids": [
+            "wiki_avci"
+          ]
+        }
+      ],
+      "assessments": {
+        "communication": {
+          "score": 7,
+          "confidence": "low",
+          "rationale": "Uzun Başakşehir görevinden hareketle istikrar odaklı bir iletişim varsayımı. Doğrudan oyuncu anketi yok.",
+          "source_ids": [
+            "wiki_avci"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "style_fit": {
+          "score": 6,
+          "confidence": "low",
+          "rationale": "Kontrollü yerleşim ve savunma dengesi olumlu; varsaydığımız yüksek tempo ve sürekli hücum profiline kısmi uyum.",
+          "source_ids": [
+            "wiki_avci"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "big_club": {
+          "score": 7,
+          "confidence": "medium",
+          "rationale": "Trabzonspor ile 2021/22 şampiyonluğu güçlü kanıt; Beşiktaş dönemi aynı düzeyde başarı üretmedi.",
+          "source_ids": [
+            "wiki_avci"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "derby": {
+          "score": 6,
+          "confidence": "low",
+          "rationale": "2019 Galatasaray galibiyeti olumlu bir örnek. Tam kariyer derbi dökümü olmadığı için ihtiyatlı editoryal puan.",
+          "source_ids": [
+            "avci_derby"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        }
+      },
+      "european_records": [
+        {
+          "competition": "UCL",
+          "stage": "qualifying",
+          "team": "Trabzonspor",
+          "season": "2022/23",
+          "source_ids": [
+            "wiki_avci"
+          ]
+        },
+        {
+          "competition": "UEL",
+          "stage": "group",
+          "team": "Trabzonspor",
+          "season": "2022/23",
+          "source_ids": [
+            "wiki_avci"
+          ]
+        },
+        {
+          "competition": "UECL",
+          "stage": "knockout_playoff",
+          "team": "Trabzonspor",
+          "season": "2022/23",
+          "source_ids": [
+            "avci_europe"
+          ]
+        }
+      ],
+      "derby_evidence": [
+        {
+          "date": "2019-10-27",
+          "team": "Beşiktaş",
+          "opponent": "Galatasaray",
+          "result": "1-0",
+          "source_ids": [
+            "avci_derby"
+          ]
+        }
+      ],
+      "notes": [
+        "Alt yaş, rezerv ve yardımcı antrenörlük görevleri kapsam dışıdır.",
+        "Sofascore ve Wikipedia takım maç sayıları farklıdır; bu sürüm Wikipedia takım satırlarını sabitler."
+      ]
+    },
+    {
+      "id": "conte",
+      "name": "Antonio Conte",
+      "record_as_of": "2026-05-24",
+      "tenures": [
+        {
+          "team": "Arezzo",
+          "started_on": "2006-07-01",
+          "ended_on": "2006-10-31",
+          "kind": "club",
+          "games": 12,
+          "wins": 1,
+          "draws": 7,
+          "losses": 4,
+          "source_ids": [
+            "wiki_conte"
+          ]
+        },
+        {
+          "team": "Arezzo",
+          "started_on": "2007-03-13",
+          "ended_on": "2007-06-12",
+          "kind": "club",
+          "games": 15,
+          "wins": 8,
+          "draws": 3,
+          "losses": 4,
+          "source_ids": [
+            "wiki_conte"
+          ]
+        },
+        {
+          "team": "Bari",
+          "started_on": "2007-12-27",
+          "ended_on": "2009-06-23",
+          "kind": "club",
+          "games": 67,
+          "wins": 32,
+          "draws": 22,
+          "losses": 13,
+          "source_ids": [
+            "wiki_conte"
+          ]
+        },
+        {
+          "team": "Atalanta",
+          "started_on": "2009-09-21",
+          "ended_on": "2010-01-07",
+          "kind": "club",
+          "games": 14,
+          "wins": 3,
+          "draws": 4,
+          "losses": 7,
+          "source_ids": [
+            "wiki_conte"
+          ]
+        },
+        {
+          "team": "Siena",
+          "started_on": "2010-05-23",
+          "ended_on": "2011-05-30",
+          "kind": "club",
+          "games": 44,
+          "wins": 22,
+          "draws": 14,
+          "losses": 8,
+          "source_ids": [
+            "wiki_conte"
+          ]
+        },
+        {
+          "team": "Juventus",
+          "started_on": "2011-05-31",
+          "ended_on": "2014-07-15",
+          "kind": "club",
+          "games": 151,
+          "wins": 102,
+          "draws": 34,
+          "losses": 15,
+          "source_ids": [
+            "wiki_conte"
+          ]
+        },
+        {
+          "team": "İtalya",
+          "started_on": "2014-08-14",
+          "ended_on": "2016-07-02",
+          "kind": "national",
+          "games": 25,
+          "wins": 14,
+          "draws": 7,
+          "losses": 4,
+          "source_ids": [
+            "wiki_conte"
+          ]
+        },
+        {
+          "team": "Chelsea",
+          "started_on": "2016-07-03",
+          "ended_on": "2018-07-13",
+          "kind": "club",
+          "games": 106,
+          "wins": 69,
+          "draws": 17,
+          "losses": 20,
+          "source_ids": [
+            "wiki_conte"
+          ]
+        },
+        {
+          "team": "Inter",
+          "started_on": "2019-05-31",
+          "ended_on": "2021-05-26",
+          "kind": "club",
+          "games": 102,
+          "wins": 64,
+          "draws": 23,
+          "losses": 15,
+          "source_ids": [
+            "wiki_conte"
+          ]
+        },
+        {
+          "team": "Tottenham",
+          "started_on": "2021-11-02",
+          "ended_on": "2023-03-26",
+          "kind": "club",
+          "games": 76,
+          "wins": 41,
+          "draws": 12,
+          "losses": 23,
+          "source_ids": [
+            "wiki_conte"
+          ]
+        },
+        {
+          "team": "Napoli",
+          "started_on": "2024-06-05",
+          "ended_on": "2026-05-24",
+          "kind": "club",
+          "games": 91,
+          "wins": 52,
+          "draws": 22,
+          "losses": 17,
+          "source_ids": [
+            "wiki_conte"
+          ]
+        }
+      ],
+      "assessments": {
+        "communication": {
+          "score": 6,
+          "confidence": "low",
+          "rationale": "Takım bağlılığı kurabilen yoğun talepkârlık; farklı kadrolarda aynı iletişim etkisinin süreceği belirsiz. Bu bir oyuncu memnuniyeti ölçümü değildir.",
+          "source_ids": [
+            "conte_europe",
+            "wiki_conte"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "style_fit": {
+          "score": 7,
+          "confidence": "low",
+          "rationale": "Kanat bekleri, geçişler ve disiplin güçlü; mevcut kadro analiz edilmeden üçlü savunmaya uyum garanti edilemez.",
+          "source_ids": [
+            "wiki_conte"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "big_club": {
+          "score": 10,
+          "confidence": "medium",
+          "rationale": "Juventus, Chelsea, Inter ve Napoli ile üst lig şampiyonlukları; bu aday kümesindeki en güçlü tekrarlanan lig başarısı.",
+          "source_ids": [
+            "wiki_conte"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "derby": {
+          "score": 8,
+          "confidence": "low",
+          "rationale": "Inter ile 2021'de 3-0'lık Milan galibiyeti güçlü örnek. Puan, eksiksiz bir derbi kazanma oranı değildir.",
+          "source_ids": [
+            "conte_derby"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        }
+      },
+      "european_records": [
+        {
+          "competition": "UEL",
+          "stage": "finalist",
+          "team": "Inter",
+          "season": "2019/20",
+          "source_ids": [
+            "conte_europe"
+          ]
+        },
+        {
+          "competition": "UCL",
+          "stage": "quarter_final",
+          "team": "Juventus",
+          "season": "2012/13",
+          "source_ids": [
+            "wiki_conte"
+          ]
+        }
+      ],
+      "derby_evidence": [
+        {
+          "date": "2021-02-21",
+          "team": "Inter",
+          "opponent": "Milan",
+          "result": "3-0",
+          "source_ids": [
+            "conte_derby"
+          ]
+        }
+      ],
+      "notes": [
+        "Kaynak toplamı takım satırlarından yeniden doğrulandı: 703 maç, 408 galibiyet, 165 beraberlik, 130 mağlubiyet.",
+        "Arezzo–Siena gibi erken görevlerin kaynak referansları daha zayıf; maç bazında tekrar doğrulama açık iş."
+      ]
+    },
+    {
+      "id": "nagelsmann",
+      "name": "Julian Nagelsmann",
+      "record_as_of": "2026-06-29",
+      "tenures": [
+        {
+          "team": "TSG Hoffenheim",
+          "started_on": "2016-02-11",
+          "ended_on": "2019-06-30",
+          "kind": "club",
+          "games": 136,
+          "wins": 55,
+          "draws": 43,
+          "losses": 38,
+          "source_ids": [
+            "wiki_nagelsmann"
+          ]
+        },
+        {
+          "team": "RB Leipzig",
+          "started_on": "2019-07-01",
+          "ended_on": "2021-06-30",
+          "kind": "club",
+          "games": 95,
+          "wins": 54,
+          "draws": 22,
+          "losses": 19,
+          "source_ids": [
+            "wiki_nagelsmann"
+          ]
+        },
+        {
+          "team": "Bayern Münih",
+          "started_on": "2021-07-01",
+          "ended_on": "2023-03-24",
+          "kind": "club",
+          "games": 84,
+          "wins": 60,
+          "draws": 14,
+          "losses": 10,
+          "source_ids": [
+            "wiki_nagelsmann"
+          ]
+        },
+        {
+          "team": "Almanya",
+          "started_on": "2023-09-22",
+          "ended_on": "2026-07-03",
+          "kind": "national",
+          "games": 37,
+          "wins": 23,
+          "draws": 7,
+          "losses": 7,
+          "source_ids": [
+            "wiki_nagelsmann"
+          ]
+        }
+      ],
+      "assessments": {
+        "communication": {
+          "score": 8,
+          "confidence": "low",
+          "rationale": "Oyuncuya göre iletişim ve rol tanımına önem veren kamuya açık yaklaşım üzerinden olumlu varsayım; bağımsız anket yok.",
+          "source_ids": [
+            "nag_tactics",
+            "nag_profile"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "style_fit": {
+          "score": 9,
+          "confidence": "low",
+          "rationale": "Ön alan baskısı, esnek yerleşim ve hücum varyasyonları tanımladığımız Fenerbahçe profiline güçlü uyum gösteriyor.",
+          "source_ids": [
+            "nag_tactics"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "big_club": {
+          "score": 8,
+          "confidence": "medium",
+          "rationale": "Bayern'de lig ve Süper Kupa başarıları var; Conte kadar farklı büyük kulüpte tekrarlanmış başarı yok.",
+          "source_ids": [
+            "wiki_nagelsmann"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "derby": {
+          "score": null,
+          "confidence": "low",
+          "rationale": "Seçilen sıkı yerel derbi tanımında yeterli karşılaştırılabilir kayıt toplanmadı. Bayern–Dortmund yerel derbi sayılmadı.",
+          "source_ids": [
+            "wiki_nagelsmann"
+          ],
+          "status": "unrated",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        }
+      },
+      "european_records": [
+        {
+          "competition": "UCL",
+          "stage": "semi_final",
+          "team": "RB Leipzig",
+          "season": "2019/20",
+          "source_ids": [
+            "nag_europe"
+          ]
+        }
+      ],
+      "derby_evidence": [],
+      "notes": [
+        "Hoffenheim U19 kariyere katılmadı. Millî takım istenmezse --scope club kullanılır."
+      ]
+    },
+    {
+      "id": "mendilibar",
+      "name": "José Luis Mendilibar",
+      "record_as_of": "2026-09-08",
+      "tenures": [
+        {
+          "team": "Arratia",
+          "started_on": "1994-07-01",
+          "ended_on": "1996-06-30",
+          "kind": "club",
+          "games": 76,
+          "wins": 41,
+          "draws": 14,
+          "losses": 21,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Basconia",
+          "started_on": "1997-06-30",
+          "ended_on": "1999-05-31",
+          "kind": "reserve",
+          "games": 82,
+          "wins": 39,
+          "draws": 27,
+          "losses": 16,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Athletic Bilbao B",
+          "started_on": "1999-05-31",
+          "ended_on": "2000-07-01",
+          "kind": "reserve",
+          "games": 38,
+          "wins": 15,
+          "draws": 10,
+          "losses": 13,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Basconia",
+          "started_on": "2000-07-01",
+          "ended_on": "2001-06-30",
+          "kind": "reserve",
+          "games": 38,
+          "wins": 16,
+          "draws": 8,
+          "losses": 14,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Aurrerá",
+          "started_on": "2001-06-30",
+          "ended_on": "2002-07-01",
+          "kind": "club",
+          "games": 38,
+          "wins": 12,
+          "draws": 18,
+          "losses": 8,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Lanzarote",
+          "started_on": "2002-07-01",
+          "ended_on": "2004-07-01",
+          "kind": "club",
+          "games": 95,
+          "wins": 40,
+          "draws": 25,
+          "losses": 30,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Eibar",
+          "started_on": "2004-07-01",
+          "ended_on": "2005-06-21",
+          "kind": "club",
+          "games": 43,
+          "wins": 20,
+          "draws": 14,
+          "losses": 9,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Athletic Bilbao",
+          "started_on": "2005-06-21",
+          "ended_on": "2005-10-31",
+          "kind": "club",
+          "games": 13,
+          "wins": 3,
+          "draws": 3,
+          "losses": 7,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Valladolid",
+          "started_on": "2006-06-20",
+          "ended_on": "2010-02-01",
+          "kind": "club",
+          "games": 156,
+          "wins": 62,
+          "draws": 43,
+          "losses": 51,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Osasuna",
+          "started_on": "2011-02-14",
+          "ended_on": "2013-09-03",
+          "kind": "club",
+          "games": 102,
+          "wins": 33,
+          "draws": 26,
+          "losses": 43,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Levante",
+          "started_on": "2014-05-29",
+          "ended_on": "2014-10-20",
+          "kind": "club",
+          "games": 8,
+          "wins": 1,
+          "draws": 2,
+          "losses": 5,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Eibar",
+          "started_on": "2015-06-30",
+          "ended_on": "2021-05-25",
+          "kind": "club",
+          "games": 248,
+          "wins": 76,
+          "draws": 66,
+          "losses": 106,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Alavés",
+          "started_on": "2021-12-28",
+          "ended_on": "2022-04-04",
+          "kind": "club",
+          "games": 12,
+          "wins": 1,
+          "draws": 4,
+          "losses": 7,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Sevilla",
+          "started_on": "2023-03-21",
+          "ended_on": "2023-10-08",
+          "kind": "club",
+          "games": 28,
+          "wins": 10,
+          "draws": 11,
+          "losses": 7,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        },
+        {
+          "team": "Olympiacos",
+          "started_on": "2024-02-12",
+          "ended_on": "2026-09-09",
+          "kind": "club",
+          "games": 127,
+          "wins": 79,
+          "draws": 27,
+          "losses": 21,
+          "source_ids": [
+            "wiki_mendilibar"
+          ]
+        }
+      ],
+      "assessments": {
+        "communication": {
+          "score": 8,
+          "confidence": "low",
+          "rationale": "UEFA röportajındaki sade ve açık talimat yaklaşımı üzerinden olumlu değerlendirme; oyuncu anketi yerine yorumdur.",
+          "source_ids": [
+            "mendi_interview"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "style_fit": {
+          "score": 8,
+          "confidence": "low",
+          "rationale": "Önde baskı, direkt hücum ve anlaşılır roller güçlü uyum; sürekli topa sahip olmayı tek ölçüt kabul etmiyoruz.",
+          "source_ids": [
+            "mendi_interview"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "big_club": {
+          "score": 8,
+          "confidence": "medium",
+          "rationale": "Sevilla ve Olympiacos'ta Avrupa kupaları, Olympiacos'ta yerel lig başarısı; uzun İspanya kariyerinin tamamı elit kulüplerde geçmedi.",
+          "source_ids": [
+            "mendi_titles",
+            "wiki_mendilibar"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "derby": {
+          "score": 6.5,
+          "confidence": "low",
+          "rationale": "Olympiacos–Panathinaikos için seçilmiş galibiyet, beraberlik ve mağlubiyet örnekleri karışık tablo gösteriyor. Tam kariyer oranı yok.",
+          "source_ids": [
+            "mendi_derby_draw",
+            "mendi_derby_win",
+            "mendi_derby_loss"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        }
+      },
+      "european_records": [
+        {
+          "competition": "UEL",
+          "stage": "winner",
+          "team": "Sevilla",
+          "season": "2022/23",
+          "source_ids": [
+            "mendi_titles"
+          ]
+        },
+        {
+          "competition": "UECL",
+          "stage": "winner",
+          "team": "Olympiacos",
+          "season": "2023/24",
+          "source_ids": [
+            "mendi_titles"
+          ]
+        }
+      ],
+      "derby_evidence": [
+        {
+          "date": "2024-03-10",
+          "team": "Olympiacos",
+          "opponent": "Panathinaikos",
+          "result": "1-3",
+          "source_ids": [
+            "mendi_derby_loss"
+          ]
+        },
+        {
+          "date": "2024-05-19",
+          "team": "Olympiacos",
+          "opponent": "Panathinaikos",
+          "result": "2-2",
+          "source_ids": [
+            "mendi_derby_draw"
+          ]
+        },
+        {
+          "date": "2025-03-30",
+          "team": "Olympiacos",
+          "opponent": "Panathinaikos",
+          "result": "4-2",
+          "source_ids": [
+            "mendi_derby_win"
+          ]
+        }
+      ],
+      "notes": [
+        "Kaynak toplamı takım satırlarından doğrulandı: 1104 maç/448 galibiyet. Model rezerv/feeder görevlerini ayrıca çıkarır.",
+        "Erken dönem alt lig görevleri dahildir; tüm maçlar aynı lig zorluğunu temsil etmez.",
+        "Penaltı serilerinin kaynaklardaki sınıflandırması aynı olmayabilir; W/D/L kayıtları bu sürümde aynen kullanılır."
+      ]
+    },
+    {
+      "id": "tedesco",
+      "name": "Domenico Tedesco",
+      "record_as_of": "2026-09-16",
+      "tenures": [
+        {
+          "team": "Erzgebirge Aue",
+          "started_on": "2017-03-08",
+          "ended_on": "2017-06-09",
+          "kind": "club",
+          "games": 11,
+          "wins": 6,
+          "draws": 2,
+          "losses": 3,
+          "source_ids": [
+            "wiki_tedesco"
+          ]
+        },
+        {
+          "team": "Schalke 04",
+          "started_on": "2017-06-09",
+          "ended_on": "2019-03-14",
+          "kind": "club",
+          "games": 75,
+          "wins": 33,
+          "draws": 17,
+          "losses": 25,
+          "source_ids": [
+            "wiki_tedesco"
+          ]
+        },
+        {
+          "team": "Spartak Moskova",
+          "started_on": "2019-10-14",
+          "ended_on": "2021-05-24",
+          "kind": "club",
+          "games": 54,
+          "wins": 27,
+          "draws": 10,
+          "losses": 17,
+          "source_ids": [
+            "wiki_tedesco"
+          ]
+        },
+        {
+          "team": "RB Leipzig",
+          "started_on": "2021-12-09",
+          "ended_on": "2022-09-07",
+          "kind": "club",
+          "games": 38,
+          "wins": 20,
+          "draws": 9,
+          "losses": 9,
+          "source_ids": [
+            "wiki_tedesco"
+          ]
+        },
+        {
+          "team": "Belçika",
+          "started_on": "2023-02-08",
+          "ended_on": "2025-01-17",
+          "kind": "national",
+          "games": 24,
+          "wins": 12,
+          "draws": 6,
+          "losses": 6,
+          "source_ids": [
+            "wiki_tedesco"
+          ]
+        },
+        {
+          "team": "Fenerbahçe",
+          "started_on": "2025-09-09",
+          "ended_on": "2026-04-27",
+          "kind": "club",
+          "games": 45,
+          "wins": 26,
+          "draws": 12,
+          "losses": 7,
+          "source_ids": [
+            "wiki_tedesco"
+          ]
+        },
+        {
+          "team": "Bologna",
+          "started_on": "2026-06-02",
+          "ended_on": "2026-09-16",
+          "kind": "club",
+          "games": 4,
+          "wins": 0,
+          "draws": 1,
+          "losses": 3,
+          "source_ids": [
+            "bologna_end"
+          ]
+        }
+      ],
+      "assessments": {
+        "communication": {
+          "score": 6,
+          "confidence": "low",
+          "rationale": "Farklı ülke ve kadrolara uyarlanma deneyimine sınırlı olumlu kredi; oyuncuların özel ilişkileri hakkında veri yok.",
+          "source_ids": [
+            "wiki_tedesco"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "style_fit": {
+          "score": 8,
+          "confidence": "low",
+          "rationale": "Pres, geçiş oyunu ve formasyon esnekliği hedef profille uyumlu; uygulama kadro ve hazırlık süresine bağlı.",
+          "source_ids": [
+            "wiki_tedesco"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "big_club": {
+          "score": 6,
+          "confidence": "medium",
+          "rationale": "Leipzig ile 2022 Almanya Kupası ve Schalke ile lig ikinciliği; büyük kulüplerde tekrarlanan lig şampiyonluğu yok.",
+          "source_ids": [
+            "wiki_tedesco"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "derby": {
+          "score": 6,
+          "confidence": "low",
+          "rationale": "2017/18 Revierderby'de 4-4 ve 2-0 olumlu örnekler. Sonraki tüm derbiler derlenmediği için güçlü bir başarı oranı iddia edilmiyor.",
+          "source_ids": [
+            "ted_derby"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        }
+      },
+      "european_records": [
+        {
+          "competition": "UEL",
+          "stage": "semi_final",
+          "team": "RB Leipzig",
+          "season": "2021/22",
+          "source_ids": [
+            "ted_europe"
+          ]
+        },
+        {
+          "competition": "UCL",
+          "stage": "round_of_16",
+          "team": "Schalke 04",
+          "season": "2018/19",
+          "source_ids": [
+            "wiki_tedesco"
+          ]
+        }
+      ],
+      "derby_evidence": [
+        {
+          "date": "2017-11-25",
+          "team": "Schalke 04",
+          "opponent": "Borussia Dortmund",
+          "result": "4-4",
+          "source_ids": [
+            "ted_derby"
+          ]
+        },
+        {
+          "date": "2018-04-15",
+          "team": "Schalke 04",
+          "opponent": "Borussia Dortmund",
+          "result": "2-0",
+          "source_ids": [
+            "ted_derby"
+          ]
+        }
+      ],
+      "notes": [
+        "Wikipedia istatistik tablosu Nisan 2026'da kalmıştı; Bologna'nın 4 maçlık görevi Sky Sport'un 16 Eylül raporundan ayrı eklendi.",
+        "Dört maçlık son görev için ham PPG 0.25'tir; modelde örneklem küçüklüğü ayrıca ele alınır."
+      ]
+    },
+    {
+      "id": "emre",
+      "name": "Emre Belözoğlu",
+      "record_as_of": "2026-10-29",
+      "tenures": [
+        {
+          "team": "Fenerbahçe",
+          "started_on": "2021-03-25",
+          "ended_on": "2021-05-31",
+          "kind": "club",
+          "games": 10,
+          "wins": 7,
+          "draws": 2,
+          "losses": 1,
+          "source_ids": [
+            "wiki_emre"
+          ]
+        },
+        {
+          "team": "İstanbul Başakşehir",
+          "started_on": "2021-10-03",
+          "ended_on": "2023-09-03",
+          "kind": "club",
+          "games": 90,
+          "wins": 46,
+          "draws": 23,
+          "losses": 21,
+          "source_ids": [
+            "wiki_emre"
+          ]
+        },
+        {
+          "team": "Ankaragücü",
+          "started_on": "2023-10-03",
+          "ended_on": "2024-05-31",
+          "kind": "club",
+          "games": 38,
+          "wins": 12,
+          "draws": 14,
+          "losses": 12,
+          "source_ids": [
+            "wiki_emre"
+          ]
+        },
+        {
+          "team": "Antalyaspor",
+          "started_on": "2025-01-14",
+          "ended_on": "2025-10-08",
+          "kind": "club",
+          "games": 28,
+          "wins": 9,
+          "draws": 6,
+          "losses": 13,
+          "source_ids": [
+            "wiki_emre"
+          ]
+        },
+        {
+          "team": "Kasımpaşa",
+          "started_on": "2025-12-05",
+          "ended_on": null,
+          "kind": "club",
+          "games": 30,
+          "wins": 10,
+          "draws": 11,
+          "losses": 9,
+          "source_ids": [
+            "wiki_emre"
+          ]
+        }
+      ],
+      "assessments": {
+        "communication": {
+          "score": 6,
+          "confidence": "low",
+          "rationale": "Yerel futbol çevresine aşinalık ve açık oyun anlatımı üzerinden ihtiyatlı ön kabul; futbolculuk liderliği doğrudan teknik direktörlük puanı değildir.",
+          "source_ids": [
+            "emre_interview"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "style_fit": {
+          "score": 8,
+          "confidence": "low",
+          "rationale": "Kendi anlattığı pres, topa sahip olma ve hızlı geçiş hedef profille uyumlu. Maç verisiyle bağımsız taktik ölçüm yapılmadı.",
+          "source_ids": [
+            "emre_interview"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "big_club": {
+          "score": 3,
+          "confidence": "medium",
+          "rationale": "Fenerbahçe'de kısa süreli görev; Başakşehir Türkiye Kupası finali olumlu. Büyük kulüpte kazanılmış A takım teknik direktörlük şampiyonluğu sınırlı.",
+          "source_ids": [
+            "wiki_emre"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "derby": {
+          "score": null,
+          "confidence": "low",
+          "rationale": "Kısa Fenerbahçe görevi ve diğer İstanbul kulüpleri için tam, tutarlı yerel derbi örneklemi toplanmadı.",
+          "source_ids": [
+            "wiki_emre"
+          ],
+          "status": "unrated",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        }
+      },
+      "european_records": [
+        {
+          "competition": "UECL",
+          "stage": "round_of_16",
+          "team": "İstanbul Başakşehir",
+          "season": "2022/23",
+          "source_ids": [
+            "emre_europe"
+          ]
+        }
+      ],
+      "derby_evidence": [],
+      "notes": [
+        "30 Ekim'deki doğrudan sayfa erişimi 29 Ekim itibarıyla 30 Kasımpaşa maçı gösterdi; eski arama özeti 29 maçtı. Kaydedilen tablo hücreleri esas alındı."
+      ]
+    },
+    {
+      "id": "montella",
+      "name": "Vincenzo Montella",
+      "record_as_of": "2026-10-05",
+      "tenures": [
+        {
+          "team": "Roma",
+          "started_on": "2011-02-21",
+          "ended_on": "2011-06-01",
+          "kind": "club",
+          "games": 16,
+          "wins": 7,
+          "draws": 4,
+          "losses": 5,
+          "source_ids": [
+            "wiki_montella"
+          ]
+        },
+        {
+          "team": "Catania",
+          "started_on": "2011-06-09",
+          "ended_on": "2012-06-05",
+          "kind": "club",
+          "games": 40,
+          "wins": 12,
+          "draws": 15,
+          "losses": 13,
+          "source_ids": [
+            "wiki_montella"
+          ]
+        },
+        {
+          "team": "Fiorentina",
+          "started_on": "2012-06-11",
+          "ended_on": "2015-06-08",
+          "kind": "club",
+          "games": 153,
+          "wins": 81,
+          "draws": 32,
+          "losses": 40,
+          "source_ids": [
+            "wiki_montella"
+          ]
+        },
+        {
+          "team": "Sampdoria",
+          "started_on": "2015-11-15",
+          "ended_on": "2016-06-28",
+          "kind": "club",
+          "games": 27,
+          "wins": 6,
+          "draws": 6,
+          "losses": 15,
+          "source_ids": [
+            "wiki_montella"
+          ]
+        },
+        {
+          "team": "Milan",
+          "started_on": "2016-06-28",
+          "ended_on": "2017-11-27",
+          "kind": "club",
+          "games": 64,
+          "wins": 33,
+          "draws": 13,
+          "losses": 18,
+          "source_ids": [
+            "wiki_montella"
+          ]
+        },
+        {
+          "team": "Sevilla",
+          "started_on": "2017-12-28",
+          "ended_on": "2018-04-28",
+          "kind": "club",
+          "games": 28,
+          "wins": 11,
+          "draws": 7,
+          "losses": 10,
+          "source_ids": [
+            "wiki_montella"
+          ]
+        },
+        {
+          "team": "Fiorentina",
+          "started_on": "2019-04-10",
+          "ended_on": "2019-12-21",
+          "kind": "club",
+          "games": 27,
+          "wins": 6,
+          "draws": 7,
+          "losses": 14,
+          "source_ids": [
+            "wiki_montella"
+          ]
+        },
+        {
+          "team": "Adana Demirspor",
+          "started_on": "2021-09-01",
+          "ended_on": "2023-06-12",
+          "kind": "club",
+          "games": 76,
+          "wins": 38,
+          "draws": 17,
+          "losses": 21,
+          "source_ids": [
+            "wiki_montella"
+          ]
+        },
+        {
+          "team": "Türkiye",
+          "started_on": "2023-09-21",
+          "ended_on": "2026-10-09",
+          "kind": "national",
+          "games": 40,
+          "wins": 21,
+          "draws": 5,
+          "losses": 14,
+          "source_ids": [
+            "wiki_montella"
+          ]
+        }
+      ],
+      "assessments": {
+        "communication": {
+          "score": 7,
+          "confidence": "low",
+          "rationale": "Farklı ülkelerdeki görevler ve Türkiye'de süreklilik üzerinden orta düzey olumlu varsayım. Oyuncu iletişimi için doğrudan anket yok.",
+          "source_ids": [
+            "wiki_montella"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "style_fit": {
+          "score": 8,
+          "confidence": "low",
+          "rationale": "Topa sahip olma ve teknik oyunculara alan açma yaklaşımı uyumlu; millî takım oyununu kulübe aktarmak ayrıca değerlendirilmelidir.",
+          "source_ids": [
+            "wiki_montella"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "big_club": {
+          "score": 6,
+          "confidence": "medium",
+          "rationale": "Milan ile Süper Kupa, Fiorentina ile Avrupa yarı finali; Sevilla ve ikinci Fiorentina dönemleri daha zayıf. Millî takım dereceleri kulüp kupası sayılmadı.",
+          "source_ids": [
+            "wiki_montella",
+            "mont_europe"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "derby": {
+          "score": 5,
+          "confidence": "low",
+          "rationale": "Milan dönemindeki yerel derbi örnekleri baskın başarıya işaret etmiyor. Kaydedilen 2017 beraberliği bir örnektir; tam derbi oranı değildir.",
+          "source_ids": [
+            "mont_derby",
+            "wiki_montella"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        }
+      },
+      "european_records": [
+        {
+          "competition": "UEL",
+          "stage": "semi_final",
+          "team": "Fiorentina",
+          "season": "2014/15",
+          "source_ids": [
+            "mont_europe"
+          ]
+        },
+        {
+          "competition": "UCL",
+          "stage": "quarter_final",
+          "team": "Sevilla",
+          "season": "2017/18",
+          "source_ids": [
+            "wiki_montella"
+          ]
+        }
+      ],
+      "derby_evidence": [
+        {
+          "date": "2017-04-15",
+          "team": "Milan",
+          "opponent": "Inter",
+          "result": "2-2",
+          "source_ids": [
+            "mont_derby"
+          ]
+        }
+      ],
+      "notes": [
+        "Son görev Türkiye; yalnızca kulüp senaryosunda son takım Adana Demirspor olur."
+      ]
+    },
+    {
+      "id": "kuyt",
+      "name": "Dirk Kuyt",
+      "record_as_of": "2026-10-28",
+      "tenures": [
+        {
+          "team": "ADO Den Haag",
+          "started_on": "2022-06-02",
+          "ended_on": "2022-11-24",
+          "kind": "club",
+          "games": 17,
+          "wins": 5,
+          "draws": 4,
+          "losses": 8,
+          "source_ids": [
+            "wiki_kuyt"
+          ]
+        },
+        {
+          "team": "Beerschot",
+          "started_on": "2023-12-28",
+          "ended_on": "2025-06-20",
+          "kind": "club",
+          "games": 53,
+          "wins": 14,
+          "draws": 12,
+          "losses": 27,
+          "source_ids": [
+            "wiki_kuyt"
+          ]
+        },
+        {
+          "team": "FC Dordrecht",
+          "started_on": "2025-06-30",
+          "ended_on": "2026-06-18",
+          "kind": "club",
+          "games": 39,
+          "wins": 12,
+          "draws": 11,
+          "losses": 16,
+          "source_ids": [
+            "wiki_kuyt"
+          ]
+        },
+        {
+          "team": "Fenerbahçe",
+          "started_on": "2026-10-28",
+          "ended_on": null,
+          "kind": "club",
+          "games": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "source_ids": [
+            "kuyt_interim"
+          ]
+        }
+      ],
+      "assessments": {
+        "communication": {
+          "score": 7,
+          "confidence": "low",
+          "rationale": "Fenerbahçe ortamını tanımasına sınırlı kredi; bu, futbolculuk itibarını teknik direktörlükte kanıtlanmış iletişim başarısı saymaz. Yüksek belirsizlik.",
+          "source_ids": [
+            "kuyt_interim"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "style_fit": {
+          "score": 6,
+          "confidence": "low",
+          "rationale": "Kısa A takım teknik direktörlük geçmişi nedeniyle hücum ve pres hedeflerine uyum hakkında sınırlı kanıt; Fenerbahçe deneyimi futbolculuk döneminden ayrı tutulur.",
+          "source_ids": [
+            "wiki_kuyt"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "big_club": {
+          "score": 1,
+          "confidence": "medium",
+          "rationale": "Büyük kulüpte maç yönetmiş başantrenör olarak henüz doğrulanmış başarı kaydı yok. Yardımcılık ve oyuncu kupaları sayılmaz; bu yetenek yokluğu demek değildir.",
+          "source_ids": [
+            "wiki_kuyt",
+            "kuyt_interim"
+          ],
+          "status": "editorial",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        },
+        "derby": {
+          "score": null,
+          "confidence": "low",
+          "rationale": "Başantrenör olarak karşılaştırılabilir yerel derbi dökümü toplanmadı; oyunculuk derbileri kapsam dışı.",
+          "source_ids": [
+            "wiki_kuyt"
+          ],
+          "status": "unrated",
+          "author": "Codex; kullanıcı incelemesi bekleyen taslak"
+        }
+      },
+      "european_records": [],
+      "derby_evidence": [],
+      "notes": [
+        "Fenerbahçe geçici görevi 0 maç: PPG tanımsızdır, sıfır başarı olarak kodlanmaz.",
+        "Varsayılan last-played politikası Dordrecht'i kullanır. --last-team latest seçeneği 0 maçlı görevi eksik özellik olarak bırakır.",
+        "Canlı Wikipedia Beerschot satırı 14/12/27; önbellekte 13/13/27 görülüyor. Bu sürüm doğrudan indirilen tabloyu sabitler; penaltı sınıflandırması farkı olabilir."
+      ]
+    }
+  ],
+  "source_checks": [
+    {
+      "coach_id": "conte",
+      "source_id": "wiki_conte",
+      "published": {
+        "games": 703,
+        "wins": 408,
+        "draws": 165,
+        "losses": 130
+      },
+      "recomputed_all_rows": {
+        "games": 703,
+        "wins": 408,
+        "draws": 165,
+        "losses": 130
+      },
+      "note": "Takım satırları toplam satırıyla uyuşuyor."
+    },
+    {
+      "coach_id": "mendilibar",
+      "source_id": "wiki_mendilibar",
+      "published": {
+        "games": 1104,
+        "wins": 448,
+        "draws": 298,
+        "losses": 358
+      },
+      "recomputed_all_rows": {
+        "games": 1104,
+        "wins": 448,
+        "draws": 298,
+        "losses": 358
+      },
+      "note": "Rezervleri çıkarmadan önceki toplam doğrulandı; model bunları ayrıca dışlar."
+    }
+  ]
+}

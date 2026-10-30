@@ -1,0 +1,57 @@
+﻿criterion,rank,coach_id,name,raw_value,model_unit_value,note
+last_team_ppg,4,avci,Abdullah Avcı,1.8095238095238095,0.5908004778972521,sıralamada PPG ayarlanır
+last_team_ppg,3,conte,Antonio Conte,1.956043956043956,0.6534268510418425,sıralamada PPG ayarlanır
+last_team_ppg,1,nagelsmann,Julian Nagelsmann,2.3095238095238093,0.7305749805749806,sıralamada PPG ayarlanır
+last_team_ppg,2,mendilibar,José Luis Mendilibar,2.078740157480315,0.6608246880355723,sıralamada PPG ayarlanır
+last_team_ppg,8,tedesco,Domenico Tedesco,0.25,0.4947060288988539,sıralamada PPG ayarlanır
+last_team_ppg,6,emre,Emre Belözoğlu,1.3666666666666667,0.48779116465863454,sıralamada PPG ayarlanır
+last_team_ppg,5,montella,Vincenzo Montella,1.7236842105263157,0.562842331768388,sıralamada PPG ayarlanır
+last_team_ppg,7,kuyt,Dirk Kuyt,1.205128205128205,0.3833736884584342,sıralamada PPG ayarlanır
+career_ppg,4,avci,Abdullah Avcı,1.7022653721682848,0.5674217907227616,
+career_ppg,1,conte,Antonio Conte,1.9764011799410028,0.6588003933136676,
+career_ppg,2,nagelsmann,Julian Nagelsmann,1.8603174603174604,0.6201058201058202,
+career_ppg,7,mendilibar,José Luis Mendilibar,1.4661733615221988,0.48872445384073293,
+career_ppg,3,tedesco,Domenico Tedesco,1.7048458149779735,0.5682819383259912,
+career_ppg,6,emre,Emre Belözoğlu,1.5714285714285714,0.5238095238095238,
+career_ppg,5,montella,Vincenzo Montella,1.5846867749419953,0.5282289249806651,
+career_ppg,8,kuyt,Dirk Kuyt,1.1009174311926606,0.3669724770642202,
+communication,3,avci,Abdullah Avcı,7,0.6666666666666666,
+communication,6,conte,Antonio Conte,6,0.5555555555555556,
+communication,1,nagelsmann,Julian Nagelsmann,8,0.7777777777777778,
+communication,1,mendilibar,José Luis Mendilibar,8,0.7777777777777778,
+communication,6,tedesco,Domenico Tedesco,6,0.5555555555555556,
+communication,6,emre,Emre Belözoğlu,6,0.5555555555555556,
+communication,3,montella,Vincenzo Montella,7,0.6666666666666666,
+communication,3,kuyt,Dirk Kuyt,7,0.6666666666666666,
+style_fit,7,avci,Abdullah Avcı,6,0.5555555555555556,
+style_fit,6,conte,Antonio Conte,7,0.6666666666666666,
+style_fit,1,nagelsmann,Julian Nagelsmann,9,0.8888888888888888,
+style_fit,2,mendilibar,José Luis Mendilibar,8,0.7777777777777778,
+style_fit,2,tedesco,Domenico Tedesco,8,0.7777777777777778,
+style_fit,2,emre,Emre Belözoğlu,8,0.7777777777777778,
+style_fit,2,montella,Vincenzo Montella,8,0.7777777777777778,
+style_fit,7,kuyt,Dirk Kuyt,6,0.5555555555555556,
+big_club,4,avci,Abdullah Avcı,7,0.6666666666666666,
+big_club,1,conte,Antonio Conte,10,1.0,
+big_club,2,nagelsmann,Julian Nagelsmann,8,0.7777777777777778,
+big_club,2,mendilibar,José Luis Mendilibar,8,0.7777777777777778,
+big_club,5,tedesco,Domenico Tedesco,6,0.5555555555555556,
+big_club,7,emre,Emre Belözoğlu,3,0.2222222222222222,
+big_club,5,montella,Vincenzo Montella,6,0.5555555555555556,
+big_club,8,kuyt,Dirk Kuyt,1,0.0,
+derby,3,avci,Abdullah Avcı,6,0.5555555555555556,
+derby,1,conte,Antonio Conte,8,0.7777777777777778,
+derby,,nagelsmann,Julian Nagelsmann,,0.5,nötr atama; gözlem yok
+derby,2,mendilibar,José Luis Mendilibar,6.5,0.6111111111111112,
+derby,3,tedesco,Domenico Tedesco,6,0.5555555555555556,
+derby,,emre,Emre Belözoğlu,,0.5,nötr atama; gözlem yok
+derby,5,montella,Vincenzo Montella,5,0.4444444444444444,
+derby,,kuyt,Dirk Kuyt,,0.5,nötr atama; gözlem yok
+europe,7,avci,Abdullah Avcı,2.62,0.18000000000000002,
+europe,3,conte,Antonio Conte,7.48,0.7200000000000001,
+europe,2,nagelsmann,Julian Nagelsmann,8.2,0.7999999999999999,
+europe,1,mendilibar,José Luis Mendilibar,9.1,0.8999999999999999,
+europe,4,tedesco,Domenico Tedesco,6.760000000000001,0.6400000000000001,
+europe,6,emre,Emre Belözoğlu,3.16,0.24000000000000002,
+europe,4,montella,Vincenzo Montella,6.760000000000001,0.6400000000000001,
+europe,8,kuyt,Dirk Kuyt,1.0,0.0,

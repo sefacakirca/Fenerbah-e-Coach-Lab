@@ -1,0 +1,28 @@
+{
+  "weights": {
+    "last_team_ppg": 0.15,
+    "career_ppg": 0.20,
+    "communication": 0.10,
+    "style_fit": 0.20,
+    "big_club": 0.10,
+    "derby": 0.10,
+    "europe": 0.15
+  },
+  "europe_coefficients": {"UCL": 1.0, "UEL": 0.8, "UECL": 0.6},
+  "stage_points": {
+    "qualifying": 1.0,
+    "group": 2.0,
+    "knockout_playoff": 3.0,
+    "round_of_16": 4.0,
+    "quarter_final": 6.0,
+    "semi_final": 8.0,
+    "finalist": 9.0,
+    "winner": 10.0
+  },
+  "europe_title_bonus": 0.5,
+  "europe_title_bonus_cap": 2,
+  "last_team_prior_matches": 20.0,
+  "weight_concentration": 80.0,
+  "subjective_half_width": {"high": 1.0, "medium": 1.5, "low": 2.5},
+  "seed": 42
+}

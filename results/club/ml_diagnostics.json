@@ -1,0 +1,111 @@
+{
+  "k": 2,
+  "silhouette": 0.22491620432575773,
+  "seed": 42,
+  "trials": [
+    {
+      "k": 2,
+      "accepted": true,
+      "silhouette": 0.22491620432575773
+    },
+    {
+      "k": 3,
+      "accepted": false,
+      "reason": "singleton cluster",
+      "silhouette": null
+    },
+    {
+      "k": 4,
+      "accepted": false,
+      "reason": "singleton cluster",
+      "silhouette": null
+    }
+  ],
+  "centroids_unit_scale": [
+    {
+      "cluster": 0,
+      "size": 3,
+      "last_team_ppg": 0.6816088398841318,
+      "career_ppg": 0.5892102224200736,
+      "communication": 0.7037037037037037,
+      "style_fit": 0.7777777777777777,
+      "big_club": 0.8518518518518517,
+      "derby": 0.6296296296296297,
+      "europe": 0.8066666666666666
+    },
+    {
+      "cluster": 1,
+      "size": 5,
+      "last_team_ppg": 0.5039027383363125,
+      "career_ppg": 0.5109429309806324,
+      "communication": 0.6222222222222222,
+      "style_fit": 0.6888888888888889,
+      "big_club": 0.4,
+      "derby": 0.5111111111111111,
+      "europe": 0.3400000000000001
+    }
+  ],
+  "pca_explained_variance_ratio": [
+    0.5566394060046487,
+    0.23977245628479876
+  ],
+  "note": "Sekiz aday ve editoryal girdiler; kümeler başarı etiketi değildir. PCA yalnızca görünüm/keşif içindir.",
+  "profiles": [
+    {
+      "coach_id": "avci",
+      "name": "Abdullah Avcı",
+      "cluster": 1,
+      "pca_1": -0.525372843202518,
+      "pca_2": -0.8586688518055832
+    },
+    {
+      "coach_id": "conte",
+      "name": "Antonio Conte",
+      "cluster": 0,
+      "pca_1": 2.248855279348996,
+      "pca_2": -2.608142216760775
+    },
+    {
+      "coach_id": "nagelsmann",
+      "name": "Julian Nagelsmann",
+      "cluster": 0,
+      "pca_1": 2.351454734664612,
+      "pca_2": 1.7869837372586357
+    },
+    {
+      "coach_id": "mendilibar",
+      "name": "José Luis Mendilibar",
+      "cluster": 0,
+      "pca_1": 1.535512291034923,
+      "pca_2": 1.0973273172129414
+    },
+    {
+      "coach_id": "tedesco",
+      "name": "Domenico Tedesco",
+      "cluster": 1,
+      "pca_1": -0.04582194325643105,
+      "pca_2": -0.5382952083169933
+    },
+    {
+      "coach_id": "emre",
+      "name": "Emre Belözoğlu",
+      "cluster": 1,
+      "pca_1": -1.567240927818633,
+      "pca_2": -0.11223765360611096
+    },
+    {
+      "coach_id": "montella",
+      "name": "Vincenzo Montella",
+      "cluster": 1,
+      "pca_1": -0.061761556141351696,
+      "pca_2": 1.0788785011449031
+    },
+    {
+      "coach_id": "kuyt",
+      "name": "Dirk Kuyt",
+      "cluster": 1,
+      "pca_1": -3.935625034629596,
+      "pca_2": 0.15415437487298286
+    }
+  ]
+}

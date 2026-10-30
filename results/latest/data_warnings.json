@@ -1,0 +1,45 @@
+[
+  {
+    "coach_id": "avci",
+    "warnings": []
+  },
+  {
+    "coach_id": "conte",
+    "warnings": []
+  },
+  {
+    "coach_id": "nagelsmann",
+    "warnings": [
+      "Son görev millî takım; kulüp karşılaştırması için --scope club kullanılabilir.",
+      "Ölçülmeyen alanlara nötr değer atandı: derby"
+    ]
+  },
+  {
+    "coach_id": "mendilibar",
+    "warnings": []
+  },
+  {
+    "coach_id": "tedesco",
+    "warnings": [
+      "Son görev yalnızca 4 maç; küçük örneklem."
+    ]
+  },
+  {
+    "coach_id": "emre",
+    "warnings": [
+      "Ölçülmeyen alanlara nötr değer atandı: derby"
+    ]
+  },
+  {
+    "coach_id": "montella",
+    "warnings": [
+      "Son görev millî takım; kulüp karşılaştırması için --scope club kullanılabilir."
+    ]
+  },
+  {
+    "coach_id": "kuyt",
+    "warnings": [
+      "Ölçülmeyen alanlara nötr değer atandı: last_team_ppg, derby"
+    ]
+  }
+]

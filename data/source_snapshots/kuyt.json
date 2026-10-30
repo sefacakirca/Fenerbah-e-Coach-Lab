@@ -1,0 +1,98 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Dirk_Kuyt",
+  "retrieved_at_utc": "2026-10-30T12:07:10.911086+00:00",
+  "table_sha256": "696982a151256e8016025f634c1fb44bb4faef7d56fa21535cb0c58b21c85c94",
+  "note": "Rowspan hücreleri genişletilmemiştir. İnceleyerek birleştirin; otomatik veri güncellemesi yok.",
+  "rows": [
+    [
+      "Team",
+      "Nat",
+      "From",
+      "To",
+      "Record"
+    ],
+    [
+      "M",
+      "W",
+      "D",
+      "L",
+      "GF",
+      "GA",
+      "GD",
+      "Win %",
+      "Ref."
+    ],
+    [
+      "ADO Den Haag",
+      "",
+      "2 June 2022",
+      "24 November 2022",
+      "17",
+      "5",
+      "4",
+      "8",
+      "22",
+      "28",
+      "−6",
+      "029.41",
+      ""
+    ],
+    [
+      "Beerschot",
+      "",
+      "28 December 2023",
+      "20 June 2025",
+      "53",
+      "14",
+      "12",
+      "27",
+      "60",
+      "88",
+      "−28",
+      "026.42",
+      ""
+    ],
+    [
+      "FC Dordrecht",
+      "",
+      "30 June 2025",
+      "18 June 2026",
+      "39",
+      "12",
+      "11",
+      "16",
+      "48",
+      "63",
+      "−15",
+      "030.77",
+      ""
+    ],
+    [
+      "Fenerbahçe (interim)",
+      "",
+      "28 October 2026",
+      "",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "+0",
+      "!—",
+      ""
+    ],
+    [
+      "Total",
+      "109",
+      "31",
+      "27",
+      "51",
+      "130",
+      "179",
+      "−49",
+      "028.44",
+      "—"
+    ]
+  ]
+}

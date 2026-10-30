@@ -1,0 +1,106 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Emre_Bel%C3%B6zo%C4%9Flu",
+  "retrieved_at_utc": "2026-10-30T12:07:09.568865+00:00",
+  "table_sha256": "0a459726e06d68b18a29ed4c658048a1529adfba50c3e750ea03b62e48f475da",
+  "note": "Rowspan hücreleri genişletilmemiştir. İnceleyerek birleştirin; otomatik veri güncellemesi yok.",
+  "rows": [
+    [
+      "Team",
+      "Nat",
+      "From",
+      "To",
+      "Record"
+    ],
+    [
+      "G",
+      "W",
+      "D",
+      "L",
+      "GF",
+      "GA",
+      "GD",
+      "Win %"
+    ],
+    [
+      "Fenerbahçe (a.i.)",
+      "",
+      "25 March 2021",
+      "31 May 2021",
+      "10",
+      "7",
+      "2",
+      "1",
+      "18",
+      "10",
+      "+8",
+      "070.00"
+    ],
+    [
+      "İstanbul Başakşehir",
+      "",
+      "3 October 2021",
+      "3 September 2023",
+      "90",
+      "46",
+      "23",
+      "21",
+      "142",
+      "90",
+      "+52",
+      "051.11"
+    ],
+    [
+      "Ankaragücü",
+      "",
+      "3 October 2023",
+      "31 May 2024",
+      "38",
+      "12",
+      "14",
+      "12",
+      "53",
+      "46",
+      "+7",
+      "031.58"
+    ],
+    [
+      "Antalyaspor",
+      "",
+      "14 January 2025",
+      "8 October 2025",
+      "28",
+      "9",
+      "6",
+      "13",
+      "27",
+      "43",
+      "−16",
+      "032.14"
+    ],
+    [
+      "Kasımpaşa",
+      "",
+      "5 December 2025",
+      "present",
+      "30",
+      "10",
+      "11",
+      "9",
+      "35",
+      "37",
+      "−2",
+      "033.33"
+    ],
+    [
+      "Total",
+      "196",
+      "84",
+      "56",
+      "56",
+      "275",
+      "227",
+      "+48",
+      "042.86"
+    ]
+  ]
+}

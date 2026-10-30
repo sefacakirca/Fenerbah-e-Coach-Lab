@@ -1,0 +1,11 @@
+{
+  "snapshot_date": "2026-10-30",
+  "data_sha256": "a25d6551fc60c4468e05bba6e7d596e272d72857b90123019e66ebc0e9199a08",
+  "effective_config_sha256": "765d2429541bce3ad0fe074b2fe11c3b405a218b63706b93fb6b4a82bf6d5b89",
+  "scope": "club",
+  "last_team": "last-played",
+  "simulations": 10000,
+  "python": "3.11.9",
+  "numpy": "2.4.6",
+  "scikit_learn": "1.9.1"
+}

@@ -1,0 +1,9 @@
+﻿coach_id,name,record_as_of,scope,last_team_policy,latest_appointment,latest_appointment_games,latest_appointment_ppg,evaluated_last_team,last_team_games,last_team_ppg,last_team_ppg_model,career_games,career_wins,career_draws,career_losses,career_ppg,europe,communication,style_fit,big_club,derby,missing_features
+avci,Abdullah Avcı,2024-08-31,senior,last-played,Trabzonspor,42,1.8095238095238095,Trabzonspor,42,1.8095238095238095,1.8095238095238095,636,303,165,168,1.6886792452830188,2.62,7,6,7,6,
+conte,Antonio Conte,2026-05-24,senior,last-played,Napoli,91,1.956043956043956,Napoli,91,1.956043956043956,1.956043956043956,703,408,165,130,1.9758179231863442,7.48,6,7,10,8,
+nagelsmann,Julian Nagelsmann,2026-06-29,senior,last-played,Almanya,37,2.054054054054054,Almanya,37,2.054054054054054,2.054054054054054,352,192,86,74,1.8806818181818181,8.2,8,9,8,,derby
+mendilibar,José Luis Mendilibar,2026-09-08,senior,last-played,Olympiacos,127,2.078740157480315,Olympiacos,127,2.078740157480315,2.078740157480315,946,378,253,315,1.4661733615221988,9.1,8,8,8,6.5,
+tedesco,Domenico Tedesco,2026-09-16,senior,last-played,Bologna,4,0.25,Bologna,4,0.25,0.25,251,124,57,70,1.7091633466135459,6.760000000000001,6,8,6,6,
+emre,Emre Belözoğlu,2026-10-29,senior,last-played,Kasımpaşa,30,1.3666666666666667,Kasımpaşa,30,1.3666666666666667,1.3666666666666667,196,84,56,56,1.5714285714285714,3.16,6,8,3,,derby
+montella,Vincenzo Montella,2026-10-05,senior,last-played,Türkiye,40,1.7,Türkiye,40,1.7,1.7,471,215,106,150,1.59447983014862,6.760000000000001,7,8,6,5,
+kuyt,Dirk Kuyt,2026-10-28,senior,last-played,Fenerbahçe,0,,FC Dordrecht,39,1.205128205128205,1.205128205128205,109,31,27,51,1.1009174311926606,1.0,7,6,1,,derby

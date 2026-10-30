@@ -1,0 +1,89 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Abdullah_Avc%C4%B1",
+  "retrieved_at_utc": "2026-10-30T12:07:06.318338+00:00",
+  "table_sha256": "a5c357e78a24150228c12069bae22a0ab886d62d349d33b61ac53020920a4778",
+  "note": "Rowspan hücreleri genişletilmemiştir. İnceleyerek birleştirin; otomatik veri güncellemesi yok.",
+  "rows": [
+    [
+      "Team",
+      "From",
+      "To",
+      "Record"
+    ],
+    [
+      "G",
+      "W",
+      "D",
+      "L",
+      "Win %"
+    ],
+    [
+      "İstanbul Başakşehir",
+      "8 August 2006",
+      "18 November 2011",
+      "205",
+      "83",
+      "48",
+      "74",
+      "040.49"
+    ],
+    [
+      "Turkey",
+      "18 November 2011",
+      "20 August 2013",
+      "18",
+      "6",
+      "4",
+      "8",
+      "033.33"
+    ],
+    [
+      "İstanbul Başakşehir",
+      "18 August 2014",
+      "30 June 2019",
+      "226",
+      "116",
+      "71",
+      "39",
+      "051.33"
+    ],
+    [
+      "Beşiktaş",
+      "3 July 2019",
+      "29 January 2020",
+      "28",
+      "11",
+      "3",
+      "14",
+      "039.29"
+    ],
+    [
+      "Trabzonspor",
+      "10 November 2020",
+      "7 March 2023",
+      "117",
+      "64",
+      "32",
+      "21",
+      "054.70"
+    ],
+    [
+      "Trabzonspor",
+      "12 October 2023",
+      "31 August 2024",
+      "42",
+      "23",
+      "7",
+      "12",
+      "054.76"
+    ],
+    [
+      "Total",
+      "636",
+      "303",
+      "165",
+      "168",
+      "047.64"
+    ]
+  ]
+}
